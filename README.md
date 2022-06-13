@@ -1,5 +1,5 @@
 ## Seasonal ARIMA model
-This repository contains a paper on application of seasonal ARIMA model for forecasting GDP of United Kingdom. To preview the paper, click on the file `paper.pdf`. PDF was generated using R Markdown.
+This repository contains a paper on application of seasonal ARIMA model for forecasting GDP of United Kingdom. To preview the paper, click on the file `paper.pdf`. PDF was generated using R Markdown. For clean R code click on the file `code.R`.
 
 ### Analytical process carried out:
 - initial analysis using descriptive statistics
