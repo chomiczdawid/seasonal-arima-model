@@ -1,6 +1,3 @@
-# default settings of code chunks
-knitr::opts_chunk$set(echo=FALSE, comment= " ")
-
 # libraries
 library(readxl)     # for xlsx loading
 library(tidyverse)  # vide range analytical tools
