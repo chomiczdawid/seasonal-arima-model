@@ -1,2 +1,0 @@
-# seasonal-arima-model
- 
